@@ -5,4 +5,4 @@ sidebar_position: 1
 
 # Projects
 
-This is my **first Docusaurus document**!
+The projects tab explores various projects I have completed in different domains and their outcomes. It also includes projects that I would like to take up in the future.

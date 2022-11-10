@@ -58,6 +58,12 @@ const config = {
             position: 'left',
             label: 'Projects', // project descriptions and demo?
           },
+          {
+            type: 'doc',
+            docId: 'Summaries/summary',
+            position: 'left',
+            label: 'Summaries', // project descriptions and demo?
+          },
           {to: '/blog', label: 'Blog', position: 'left'}, // Write up about different topics
         ],
       },

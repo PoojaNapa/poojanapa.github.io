@@ -14,10 +14,6 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
-  projectSidebar: [
-    'Projects/project',
-  ],
-
   // But you can create a sidebar manually
   
   notesSidebar: [
@@ -29,6 +25,15 @@ const sidebars = {
     //   label: 'Tutorial',
     //   items: ['tutorial-basics/create-a-document'],
     // },
+  ],
+
+  projectSidebar: [
+    'Projects/project',
+    'Projects/domain',
+  ],
+
+  summarySidebar: [
+    'Summaries/summary',
   ],
    
 };
