@@ -11,9 +11,8 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
   organizationName: 'PoojaNapa',
-  projectName: 'portfolio_website'
+  projectName: 'portfolio_website',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -45,21 +44,17 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: '',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
+        title: 'Home',
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'Notes/hello',
             position: 'left',
             label: 'Notes', // courses and notes
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'Projects/project',
             position: 'left',
             label: 'Projects', // project descriptions and demo?
           },

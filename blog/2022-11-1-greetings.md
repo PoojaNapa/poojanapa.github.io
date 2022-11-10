@@ -6,7 +6,6 @@ authors:
       title: Just a curious AI/ML enthusiast
       url: https://github.com/PoojaNapa
       image_url: https://github.com/PoojaNapa.png
-tags: [greetings]
 ---
 
 Hi!
