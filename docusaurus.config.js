@@ -12,7 +12,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   organizationName: 'PoojaNapa',
-  projectName: 'portfolio_website',
+  projectName: 'poojanapa.github.io',
+  deploymentBranch: "gh-pages",
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
