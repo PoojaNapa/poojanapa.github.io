@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Welcome to my Portfolio Website Blog</title>
+        <link>https://your-docusaurus-test-site.com/blog</link>
+        <description>Welcome to my Portfolio Website Blog</description>
+        <lastBuildDate>Tue, 01 Nov 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/greetings</link>
+            <guid>greetings</guid>
+            <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hi!]]></description>
+            <content:encoded><![CDATA[<p>Hi!</p><p>I am Pooja and this is my portfolio website. Through this website, I wish to interact, share and discuss my projects and areas of interest with everyone of you.</p><p>I would like to welcome you to join me on my "Learn something new everyday" mission. I would like to explore various topics including AI/ML/DL/NLP, coding and other Computer Science. I also like to read and summarize research papers. Apart from these, I am interested in the fields of law and space. I love watching cricket matches and thriller series/movies.</p><p>Thank you!</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

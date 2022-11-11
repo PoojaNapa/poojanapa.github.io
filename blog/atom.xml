@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>Welcome to my Portfolio Website Blog</title>
+    <updated>2022-11-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>Welcome to my Portfolio Website Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[About Me]]></title>
+        <id>greetings</id>
+        <link href="https://your-docusaurus-test-site.com/blog/greetings"/>
+        <updated>2022-11-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi!]]></summary>
+        <content type="html"><![CDATA[<p>Hi!</p><p>I am Pooja and this is my portfolio website. Through this website, I wish to interact, share and discuss my projects and areas of interest with everyone of you.</p><p>I would like to welcome you to join me on my "Learn something new everyday" mission. I would like to explore various topics including AI/ML/DL/NLP, coding and other Computer Science. I also like to read and summarize research papers. Apart from these, I am interested in the fields of law and space. I love watching cricket matches and thriller series/movies.</p><p>Thank you!</p>]]></content>
+        <author>
+            <name>Pooja Narasimmarao Padmanaban</name>
+            <uri>https://github.com/PoojaNapa</uri>
+        </author>
+    </entry>
+</feed>
