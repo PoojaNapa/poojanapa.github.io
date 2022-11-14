@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Welcome to my Portfolio Website',
+  title: "Welcome to Pooja's Website",
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -63,7 +63,13 @@ const config = {
             type: 'doc',
             docId: 'Summaries/summary',
             position: 'left',
-            label: 'Summaries', // project descriptions and demo?
+            label: 'Summaries', // Summarize arXiv papers
+          },
+          {
+            type: 'doc',
+            docId: 'Flowcharts/flowchart',
+            position: 'left',
+            label: 'Flowcharts', // Pictorial representation of articles/topics/concepts or in the form of flowcharts
           },
           {to: '/blog', label: 'Blog', position: 'left'}, // Write up about different topics
         ],

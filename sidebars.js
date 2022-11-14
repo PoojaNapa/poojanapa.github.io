@@ -34,6 +34,7 @@ const sidebars = {
 
   summarySidebar: [
     'Summaries/summary',
+    'Summaries/paper1'
   ],
    
 };
