@@ -34,7 +34,11 @@ const sidebars = {
 
   summarySidebar: [
     'Summaries/summary',
-    'Summaries/paper1'
+    'Summaries/paper1',
+  ],
+
+  flowchartSidebar: [
+    'Flowcharts/flowchart',
   ],
    
 };
