@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-test-site.com/blog</id>
-    <title>Welcome to my Portfolio Website Blog</title>
+    <title>Welcome to Pooja's Website Blog</title>
     <updated>2022-11-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
-    <subtitle>Welcome to my Portfolio Website Blog</subtitle>
+    <subtitle>Welcome to Pooja's Website Blog</subtitle>
     <entry>
         <title type="html"><![CDATA[Post 0 - Blogs and Websites]]></title>
         <id>post0</id>
