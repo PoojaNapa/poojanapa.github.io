@@ -6,7 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Welcome to Pooja's Website",
+  title: "Learn Everyday",
+  favicon: '/learn_logo.png',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -37,6 +38,7 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        // showLastUpdateTime: true,
       }),
     ],
   ],
@@ -46,6 +48,9 @@ const config = {
     ({
       navbar: {
         title: 'Home',
+        logo: {
+          src: '/learn_logo.png',
+        },
         items: [
           {
             type: 'doc',

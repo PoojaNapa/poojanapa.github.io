@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Paper 1: CV"
+sidebar_label: "1-YOLOv7"
 sidebar_position: 2
 tags:
     - computer vision

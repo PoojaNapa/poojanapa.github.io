@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Post 1"
+sidebar_label: "1-Recommender Systems"
 sidebar_position: 2
 tags:
     - user experience
@@ -8,6 +8,7 @@ tags:
 ---
 
 # Recommender Systems
+#### <div align = "right">November 14, 2022</div>
 
 I recently read these two articles on Recommender Systems and I took notes in the form of a diagram. 
 
